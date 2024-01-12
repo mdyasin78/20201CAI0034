@@ -18,7 +18,11 @@ to run the chatbot go to gui bot and run app.py (be connected to the internet wh
 
 make sure you install these libraries before running the chatbot 
 pip install Flask
+
 pip install nltk
+
 pip install scikit-learn
+
 pip install pandas
+
 pip install joblib
